@@ -1,0 +1,15 @@
+{
+	"title": "Titre – Le Temps",
+	"description": "Desc",
+	"authors": "Jérémie Rappaz, François Quellec, Paul Ronga",
+	"imgSocial": "img/social.png",
+
+	"navBarStyle": "black",
+	"navBarOffset": "0",
+	"navBarLocked": false,
+	"pubDate": "2020-04-20T08:00:00+00:00",
+	"partner": {
+		"logo": "img/empty.png",
+		"link": "https://www.letemps.ch/"
+	}
+}
